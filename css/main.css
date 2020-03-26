@@ -1,0 +1,45 @@
+html {
+  font-family: Merriweather, serif;
+  color: #333;
+}
+
+tbody tr {
+  height: 10em;
+  width: 50em;
+}
+
+th, td {
+  border: 2px solid #ccc;
+}
+
+td {
+  /* min-width: 50em; */
+}
+
+.event {
+  border-radius: 8px;
+}
+
+.event-grey {
+  background-color: #f2f2f2;
+  border: 1px solid #333;
+  color: #666;
+}
+
+.event-red {
+  background-color: #f2bcbc;
+  border: 1px solid #b92828;
+  color: #991919;
+}
+
+.event-green {
+  background-color: #d1e0bf;
+  border: 1px solid #6b7e54;
+  color: #51603f;
+}
+
+.event-blue {
+  background-color: #d2d6f0;
+  border: 1px solid #1d38da;
+  color: #38448e;
+}
